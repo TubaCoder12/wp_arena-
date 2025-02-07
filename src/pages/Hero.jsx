@@ -1,5 +1,5 @@
 import { gql } from '@apollo/client';
-import client from './client';
+import client from './apolloClient';
 
 // GraphQL query to fetch page data
 const GET_PAGE_DATA = gql`

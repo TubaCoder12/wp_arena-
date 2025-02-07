@@ -1,5 +1,5 @@
 import { gql } from "@apollo/client";
-import client from "./client";
+import client from "./apolloClient";
 
 import FeaturedPost from "@/Component/FeaturedPost";
 import PostList from "@/Component/PostList";
